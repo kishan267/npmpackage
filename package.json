@@ -1,0 +1,22 @@
+{
+  "name": "gitnpmpackage",
+  "version": "1.0.0",
+  "description": "Just for pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishan267/npmpackage.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "Kishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishan267/npmpackage/issues"
+  },
+  "homepage": "https://github.com/kishan267/npmpackage#readme"
+}
